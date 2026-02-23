@@ -5,7 +5,7 @@ Atuo na interseção entre Engenharia de Dados e Business Intelligence — const
 dashboards analíticos de alta performance e integrações entre APIs corporativas.
 
 Tenho experiência sólida em arquitetura de soluções **end-to-end**: desde a ingestão e transformação
-de dados com Python e PySpark até camadas de visualização avançada em Power BI, Looker Studio e QlikView.
+de dados com Python e PySpark até camadas de visualização avançada em Power BI e Looker Studio.
 
 ---
 
