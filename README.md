@@ -7,7 +7,7 @@ de dados com Python e PySpark até camadas de visualização avançada em Power 
 
 ---
 
-### 🧰 Stack & Tecnologias
+### Stack & Tecnologias
 
 **Linguagens & Query**
 
