@@ -1,4 +1,4 @@
-**Analytics Engineer** especializado em transformar dados brutos em decisões estratégicas.
+**Data Engineer** especializado em transformar dados brutos em decisões estratégicas.
 Atuo na interseção entre Engenharia de Dados e Business Intelligence — construindo pipelines robustos,
 dashboards analíticos de alta performance e integrações entre APIs corporativas.
 
